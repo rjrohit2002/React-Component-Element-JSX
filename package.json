@@ -1,0 +1,29 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is Parcel class",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjrohit2002/React-Low-level.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjrohit2002/React-Low-level/issues"
+  },
+  "homepage": "https://github.com/rjrohit2002/React-Low-level#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "browserlist": [
+    "last 2 version"
+  ]
+}
